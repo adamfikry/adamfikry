@@ -6,7 +6,7 @@
 
 ### Profile
 
-I am a student pursuing a Bachelor's degree in Computer Science with a specialization in Artificial Intelligence at Zagazig National University. As a machine learning enthusiast, my focus is on predictive modeling, natural language processing, and data structures. While I am still a student and do not yet have professional engineering experience, I spend my time building practical, end-to-end data-driven projects.
+I am a student pursuing a Bachelor's degree in Computer Science with a specialization in Artificial Intelligence at Zagazig National University. As a machine learning enthusiast, my focus is on predictive modeling, natural language processing, and data structures. While I am still a student and do not yet have professional engineering experience, I spend my time building practical projects.
 
 ---
 
