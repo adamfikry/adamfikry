@@ -10,8 +10,6 @@ I am a student pursuing a Bachelor's degree in Computer Science with a specializ
 
 ---
 
-### ˗ˏˋ ⋆ ☄︎. Beep beep stack:
-
 **Languages**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,6 +31,6 @@ I am a student pursuing a Bachelor's degree in Computer Science with a specializ
 
 ---
 
-### ˗ˏˋ ⋆ ☄︎. Beep beep stats:
+### stats:
 
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamfikry&show_icons=true&theme=radium)
